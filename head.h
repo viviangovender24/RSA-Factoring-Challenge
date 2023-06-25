@@ -7,6 +7,6 @@
 #include <unistd.h>
 #define _GNU_SOURCE
 
-int factorize(char *buffer);
+int rize(char *buffer);
 
 #endif

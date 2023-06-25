@@ -2,8 +2,6 @@
 
 /**
  * main - main function
- *
- *
  * Return: void
  */
 int main(int argc, char *argv[])
@@ -27,7 +25,7 @@ int main(int argc, char *argv[])
 	}
 	while((line = getline(&buffer, &count, fptr)) != -1)
 	{
-		factorize(buffer);
+		rize(buffer);
 	}
 return (0);
 }

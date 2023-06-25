@@ -1,12 +1,12 @@
 #include "head.h"
 
 /**
- * factorize - The function factorize a number
+ * rize - function factorize a number
  * @buffer: pointer to the address of the number
  *
  * Return: int
  */
-int factorize(char *buffer)
+int rize(char *buffer)
 {
 
 	u_int32_t num;
